@@ -1,0 +1,17 @@
+# Example memos for the memo router. One per line:  DIVISION | memo text
+# All text is synthetic. Add or change examples to change what the router learns.
+HR | All employees are reminded to submit their Individual Development Plans for next year's training.
+HR | Applications for the vacant Administrative Officer II position are now open to qualified personnel.
+HR | The Performance Management team will hold the mid-year review of office performance ratings next week.
+Finance | Prepare the year-end financial reports and the liquidation of cash advances by December 20.
+Finance | Budget call: submit your division's proposed expenditures for the first semester by March 1.
+Finance | Reimbursement claims for official travel must include receipts and be filed with Accounting within 30 days.
+Procurement | Invitation to Bid for the supply and delivery of twenty-five laptop units for the regional offices.
+Procurement | Request for quotations for the repair of two air-conditioning units at the Administration Building.
+Procurement | The Bids and Awards Committee will post the notice of award on PhilGEPS after post-qualification.
+Records | Request for certified true copies of the 2024 annual accomplishment reports for audit purposes.
+Records | All divisions must archive their closed files and turn them over to the central records room.
+Records | The records disposition schedule lists which documents may be destroyed after their retention period.
+Procurement | Shortlisted suppliers are invited to the pre-bid conference for the agency's network upgrade project.
+Procurement | Request for quotation for printing services: training manuals and certificates for the regional seminar.
+Procurement | Purchase request for office supplies: bond paper, toner cartridges and folders for the third quarter.
